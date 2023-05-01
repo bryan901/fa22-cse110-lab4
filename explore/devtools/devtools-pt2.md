@@ -1,0 +1,2 @@
+1. The bug was that the function adds two strings instead of their integer representations 
+2. I would fix this issue by using the parseInt function to convert the strings to their integer representations 
